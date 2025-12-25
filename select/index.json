@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "FACES",
+  "base_artist": "ヒプノシスマイク",
+  "createdAt": "2025-12-25T16:14:12.608769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ugly Faces",
+      "artist": "John Moreland",
+      "has_synced": true,
+      "path": "select/01_Ugly_Faces_John_Moreland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Faces",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/02_Faces_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dead Faces",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/03_Dead_Faces_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Comfortably Numb (Paper Faces mix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/04_Comfortably_Numb_(Paper_Faces_mix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Filthy/Gorgeous (Paper Faces Main mix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/05_Filthy_Gorgeous_(Paper_Faces_Main_mix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Filthy Gorgeous (Paper Faces Main Mix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/06_Filthy_Gorgeous_(Paper_Faces_Main_Mix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Grey Day - Paper Faces Mix",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/07_Grey_Day_-_Paper_Faces_Mix_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Grey Day (Paper Faces Mix)",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/08_Grey_Day_(Paper_Faces_Mix)_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Automatic - Paper Faces Remix",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/09_It's_Automatic_-_Paper_Faces_Remix_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's Automatic (Paper Faces Mix)",
+      "artist": "Zoot Woman",
+      "has_synced": false,
+      "path": "select/10_It's_Automatic_(Paper_Faces_Mix)_Zoot_Woman.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Laura (Paper Faces remix)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/11_Laura_(Paper_Faces_remix)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ready 2 Wear (Paper Faces mix)",
+      "artist": "Felix da Housecat",
+      "has_synced": false,
+      "path": "select/12_Ready_2_Wear_(Paper_Faces_mix)_Felix_da_Housecat.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dead Faces",
+      "artist": "Okkervil River",
+      "has_synced": false,
+      "path": "select/13_Dead_Faces_Okkervil_River.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Countin' Faces",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/14_Countin'_Faces_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just the Faces Change",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/15_Just_the_Faces_Change_Travis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Faces",
+      "artist": "Young Thug",
+      "has_synced": false,
+      "path": "select/16_Faces_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Changing Faces",
+      "artist": "BROS",
+      "has_synced": false,
+      "path": "select/17_Changing_Faces_BROS.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Faces",
+      "artist": "Nik Kershaw",
+      "has_synced": true,
+      "path": "select/18_Faces_Nik_Kershaw.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FACES",
+      "artist": "天谷奴零(黒田崇矢)",
+      "has_synced": false,
+      "path": "select/pl_01_FACES_天谷奴零(黒田崇矢).txt"
+    }
+  ]
+}
